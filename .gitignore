@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Data
+*.csv
+*.xlsx
+
+# OS
+Thumbs.db
+.DS_Store
